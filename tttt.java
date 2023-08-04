@@ -4,7 +4,7 @@ public class tttt{
 
 
 
-		System.out.println("mastermaster31dadasddasdasdasdasdttt2200000000111111111111011100");
+		System.out.println("mas0termaster31dadasddasdasdasdasdttt2200000000111111111111011100");
 
 
 
